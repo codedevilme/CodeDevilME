@@ -1,4 +1,4 @@
-### Hi there 👋
+### Don't hate the code, It's just ones and zeros.
 
 <!--
 **CodeDevilME/CodeDevilME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
